@@ -7,7 +7,7 @@ questions:
 objectives:
 - "Pick a relevant software registry"
 keypoints:
-- "(FIXME)"
+- "Registring your code in a community registry makes your code findable for others."
 ---
 The [third principle](https://fair-software.eu/recommendations/registry) states:
 > ## Principle 3
