@@ -14,7 +14,7 @@ keypoints:
 - "There are several common licenses that have different permissiveness."
 ---
 The [second principle](https://fair-software.eu/recommendations/license) states:
-> ## Principle 1
+> ## Principle 2
 > Add a license.
 {: .callout}
 
