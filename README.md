@@ -1,8 +1,7 @@
-# FIXME Lesson title
+# FAIR software
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
-
-This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons.
+This repository generates the corresponding lesson website from [the eScience Academy[(https://escience-academy.github.io/).
+It is based on a template from [The Carpentries](https://carpentries.org/).
 
 ## Contributing
 
@@ -24,10 +23,7 @@ Look for the tag ![good_first_issue](https://img.shields.io/badge/-good%20first%
 
 Current maintainers of this lesson are
 
-* FIXME
-* FIXME
-* FIXME
-
+* [Dafne van Kuppevelt](https://github.com/dafnevk)
 
 ## Authors
 
@@ -37,4 +33,3 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 
 To cite this lesson, please consult with [CITATION](CITATION)
 
-[lesson-example]: https://carpentries.github.io/lesson-example
