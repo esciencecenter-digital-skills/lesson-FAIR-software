@@ -29,7 +29,7 @@ This is done by adding a software license, which defines the set of rules
 and conditions for people who want to use the software.
 
 Be aware that you, as the developer of a given piece of software,
-may not be a copyright holder of the code you write. Usually, the copyright
+may not be the copyright holder of the code you write. Often, the copyright
 holder of the work is the employer (or hiring party) and not the author of the work.
 
 ## Choose a license
