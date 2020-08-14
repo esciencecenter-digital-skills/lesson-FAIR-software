@@ -10,7 +10,7 @@ objectives:
 - "Learn about software license"
 - "Add a license to a GitHub repository"
 keypoints:
-- "It is important to add a license to your open source code."
+- "It is important to add a license to your open-source code."
 - "There are several common licenses that have different permissiveness."
 ---
 
@@ -47,8 +47,8 @@ easily reuse your work.
 
 There are several websites that can help you choose a license:
 
-- [choosealicense.com](choosealicense.com): helps to choose an open-source license
-- [tldrlegal.com](tldrlegal.com): summarizes what is allowed and not allowed under a given license
+- [choosealicense.com](https://choosealicense.com/): helps to choose an open-source license.
+- [tldrlegal.com](https://tldrlegal.com/): summarizes what is allowed and not allowed under a given license.
 
 > ## Choosing a license for a project at the university
 >
