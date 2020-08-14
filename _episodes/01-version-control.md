@@ -76,9 +76,9 @@ while promoting transparency.
 Although there are different version control systems available,
 ``Git`` is the most feature-rich, modern and popular by a good margin.
 The platforms [GitHub.com](https://github.com/), [Bitbucket.org](https://bitbucket.org/product/)
-and [GitLab.com](https://about.gitlab.com/) all have smooth integrations with ``git``.
+and [GitLab.com](https://about.gitlab.com/) all have smooth integrations with ``Git``.
 
-A good starting point to learn about ``git`` is the [Software Carpentry git novice lesson](http://swcarpentry.github.io/git-novice/).
+A good starting point to learn about ``Git`` is the [Software Carpentry git novice lesson](http://swcarpentry.github.io/git-novice/).
 
 > ## Making a public repository on GitHub
 >
