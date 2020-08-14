@@ -7,7 +7,7 @@ questions:
 - "When is a license important?"
 - "How to choose a license?"
 objectives:
-- "Learn about software license"
+- "Learn about software licenses"
 - "Add a license to a GitHub repository"
 keypoints:
 - "It is important to add a license to your open-source code."
