@@ -61,7 +61,11 @@ citation metadata, which you then distribute with your software.
 
 Software is continuously evolving, and ideally when someone uses your software,
 they cite the exact version of the software they use. To facilitate that,
-you can make a **persistent identifier** (DOI, URN, ARK, etc) for a snapshot of
+you can make a **persistent identifier**
+([Digital Object Identifier or DOI](https://en.wikipedia.org/wiki/Digital_object_identifier),
+[Uniform Resource Name or URN](https://en.wikipedia.org/wiki/Uniform_Resource_Name),
+[Archival Resource Key or ARK](https://en.wikipedia.org/wiki/Archival_Resource_Key),
+etc) for a snapshot of
 your software, so that the identifier will continue to resolve to exactly
 that version for the foreseeable future.
 
