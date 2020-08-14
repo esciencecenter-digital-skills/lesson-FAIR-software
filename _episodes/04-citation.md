@@ -26,7 +26,7 @@ Additionally, a citation is an integral part of scientific accountability and re
 However, citing software is inherently more difficult than citing a paper.
 To an outsider especially, even seemingly trivial things such as identifying
 who should be recognized as an author can be difficult. It is therefore convenient
-when software developers themselves provide the information necessary to enable citation.
+when software developers themselves provide the information necessary to cite.
 
 ## A citation file
 
