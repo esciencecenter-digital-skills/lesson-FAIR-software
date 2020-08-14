@@ -44,6 +44,19 @@ citation metadata, which you then distribute with your software.
 > to initialize the ``CITATION.cff``.
 {: .callout}
 
+> ## Publish your code in zenodo
+>
+> Browse to [Zenodo](https://sandbox.zenodo.org/) and archive a snapshot of
+> your repository created in the lesson
+> [Use a publicly accessible repository with version control]({{ page.root }}{% link _episodes/01-version-control.md %}).
+>
+> > ## Solution
+> >
+> > Follow the instructions
+> > on the [GitHub guides page](https://guides.github.com/activities/citable-code/#repository).
+> {: .solution}
+{: .challenge}
+
 ## A persistent identifier
 
 Software is continuously improving, and ideally when someone uses your software,
@@ -63,16 +76,18 @@ that version for the foreseeable future.
 > - [Software Heritage Archive](https://softwareheritage.org/)
 {: .callout}
 
-> ## Adding a citation file to your code
+> ## Adding a DOI to your repository
 >
-> Browse to [Zenodo](https://sandbox.zenodo.org/) and archive a snapshot of
-> your repository created in the lesson
+> Browse to your repository created in the lesson
 > [Use a publicly accessible repository with version control]({{ page.root }}{% link _episodes/01-version-control.md %}).
+> Add the DOI generated in the previous exercise
+> ([Publish your code in zenodo](#publish-your-code-in-zenodo))
+> to the ``README.md`` file in your repository.
 >
 > > ## Solution
 > >
 > > Follow the instructions
-> > on the [GitHub guides page](https://guides.github.com/activities/citable-code/).
+> > on the [GitHub guides page](https://guides.github.com/activities/citable-code/#finishing).
 > {: .solution}
 {: .challenge}
 
