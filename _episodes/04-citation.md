@@ -72,7 +72,7 @@ that version in the future.
 > ## Archiving services
 >
 > There are several archiving services that help you create such an identifier,
-> either using the push of a button, or automatically, for example each time
+> either semi-automatically, or in a fully automated manner, for example, each time
 > you make a new release of your software:
 >
 > - [Zenodo](https://zenodo.org/)
