@@ -33,7 +33,7 @@ when software developers themselves provide the information necessary to cite.
 By adding a machine-readable citation file ``CITATION.cff`` to your code base,
 you can define how the software should be cited.
 
-The [CodeMeta](https://codemeta.github.io/) standard and the
+The [CodeMeta](https://codemeta.github.io/) metadata schema and the
 [Citation File Format](https://citation-file-format.github.io/) are specifically
 designed to enable citation. For either one, you write a plain text file with
 citation metadata, which you then distribute with your software.
