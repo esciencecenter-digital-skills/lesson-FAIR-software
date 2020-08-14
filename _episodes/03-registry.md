@@ -35,7 +35,7 @@ In turn, this helps improve the ranking of the software in the search results:
 
 Community registries come in many flavors.
 Choosing a software registry that is best suited for your needs can be tricky.
-Here some tips:
+Below are we provide a few tips.
 
 - Think about:
 
