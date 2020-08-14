@@ -12,7 +12,7 @@ keypoints:
 - "We can publish software without publishing research results."
 ---
 
-> ## Recommendation 4
+> ## [Recommendation 4](https://fair-software.eu/recommendations/citation)
 >
 > Enable citation of the software
 {: .callout}
