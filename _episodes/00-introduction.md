@@ -16,7 +16,7 @@ keypoints:
 FAIR stands for Findable, Accessible, Interoperable and Reusable.
 The FAIR principles are originated in data management and
 have served as a flagship for promoting good data management practices.
-However, the principles have been recently applied to software.
+However, only recently, the principles have been applied to software.
 
 In general, central to the realization of FAIR​ are FAIR Digital Objects,
 which may represent​ data, **software** or other research resources.
