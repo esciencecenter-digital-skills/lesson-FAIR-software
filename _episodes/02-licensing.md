@@ -34,7 +34,7 @@ holder of the work is the employer (or hiring party) and not the author of the w
 
 ## Choose a license
 
-We recommend you stick to one of the more popular licenses. Because these
+We recommend you use one of the more popular licenses. Because these
 are typically written by lawyers, the license text is precise in expressing
 its terms. While that carries the unfortunate side effect of being difficult
 to understand, the widespread use of the more popular licenses means that
