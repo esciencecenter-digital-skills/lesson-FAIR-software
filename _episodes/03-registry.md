@@ -9,15 +9,30 @@ objectives:
 keypoints:
 - "Registring your code in a community registry makes your code findable for others."
 ---
-The [third principle](https://fair-software.eu/recommendations/registry) states:
-> ## Principle 3
+
+> ## [Principle 3](https://fair-software.eu/recommendations/registry)
+>
 > Register your code in a community registry
 {: .callout}
+![principle3]({{ page.root }}/fig/principle3.png)
 
-## Why register your Software
-For others to make use of your work, they need to be able to find it first. Community registries are like the yellow pages for software -- registering your software makes it easier for others to find it, particularly through the use of search engines such as Google. Community registries typically employ metadata to describe each software package. With metadata, search engines are able to get some idea of what the software is about, what problem it addresses, and what domain it is suited for. In turn, this helps improve the ranking of the software in the search results -- better metadata means better ranking.
+## Why registering your Software is important
 
-## Getting started
+For others to make use of your work, they need to be able to find it first.
+
+Registering your software makes it easier for others to find it,
+particularly through the use of search engines such as Google.
+Community registries typically employ metadata to describe each software package.
+With metadata, search engines are able to get some idea of
+what the software is about, what problems it addresses, and what domain it is suited for.
+In turn, this helps improve the ranking of the software in the search results:
+**better metadata means better ranking**.
+
+> Community registries are like yellow pages for software.
+{: .callout}
+
+## Choose a software registry
+
 Community registries come in many flavors. Choosing the one that is best suited for your needs can be tricky. Here are some things to think about:
 
 - How much traffic does the community registry get?
@@ -37,7 +52,5 @@ You can view a list of research software registries [here](https://github.com/NL
 > - Try to find documentation on how to register software in there.
 >
 {: .challenge}
-
-
 
 {% include links.md %}
