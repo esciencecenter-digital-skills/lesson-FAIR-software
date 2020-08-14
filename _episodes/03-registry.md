@@ -61,7 +61,7 @@ Below are we provide a few tips.
 > and pick a registry for your software.
 >
 > - Which registry did you choose?
-> - Why do you choose that one?
+> - Why did you choose that one?
 > - What kind of software is in this registry?
 > - Try to find documentation on how to register software in there.
 >
