@@ -14,11 +14,11 @@ keypoints:
 - "There are several common licenses that have different permissiveness."
 ---
 
-> ## [Principle 2](https://fair-software.eu/recommendations/license)
+> ## [Recommendation 2](https://fair-software.eu/recommendations/license)
 >
 > Add a license.
 {: .callout}
-![principle2]({{ page.root }}/fig/principle2.png)
+![recommendation2]({{ page.root }}/fig/recommendation2.png)
 
 ## Why a license is important
 
