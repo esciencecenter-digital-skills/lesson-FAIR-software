@@ -12,10 +12,11 @@ objectives:
 keypoints:
 - "Checklists help you write good quality software"
 ---
-The [fifth principle](https://fair-software.eu/recommendations/checklist) states:
-> ## Principle 5
+
+> ## Recommendation 5 (https://fair-software.eu/recommendations/checklist)
 > Use a software quality checklist
 {: .callout}
+![recommendation5]({{ page.root }}/fig/recommendation5.png)
 
 ## Why use software checklists?
 Checklists help you write good quality software. What exactly constitutes 'good quality' depends on the specific application of the software, but typically covers things like documenting the source code, using continuous testing, and following standardized code patterns.
