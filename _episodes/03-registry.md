@@ -60,7 +60,7 @@ Below are we provide a few tips.
 > Have a look at [the list of software registries](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-)
 > and pick a registry for your software.
 >
-> - Which registry do you choose?
+> - Which registry did you choose?
 > - Why do you choose that one?
 > - What kind of software is in this registry?
 > - Try to find documentation on how to register software in there.
