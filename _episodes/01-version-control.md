@@ -20,7 +20,7 @@ keypoints:
 >
 > Use a publicly accessible repository with version control.
 {: .callout}
-![principle1]({{ page.root }}/fig/principle1.png)
+![recommendation1]({{ page.root }}/fig/recommendation1.png)
 
 ## Version control system
 
