@@ -40,7 +40,7 @@ Below are we provide a few tips.
 - Think about:
 
   - How much traffic does this community registry get?
-  - Is the community registry targeting the audience we are trying to reach?
+  - Is this community registry targeting the audience we are trying to reach?
   - What metadata does the community registry offer?
 - Ask your colleagues which registries they would use if they were looking for software like yours.
 - See a list of research software registries [here](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-).
