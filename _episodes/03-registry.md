@@ -10,7 +10,7 @@ keypoints:
 - "Registring your code in a community registry makes your code findable for others."
 ---
 
-> ## [Principle 3](https://fair-software.eu/recommendations/registry)
+> ## [Recommendation 3](https://fair-software.eu/recommendations/registry)
 >
 > Register your code in a community registry
 {: .callout}
@@ -31,26 +31,39 @@ In turn, this helps improve the ranking of the software in the search results:
 > Community registries are like yellow pages for software.
 {: .callout}
 
-## Choose a software registry
+## How to choose a software registry
 
-Community registries come in many flavors. Choosing the one that is best suited for your needs can be tricky. Here are some things to think about:
+Community registries come in many flavors.
 
-- How much traffic does the community registry get?
-- Is the community registry targeting the audience you are trying to reach?
-- What metadata does the community registry offer? This is sometimes described in the documentation of the registry, but you can also see for yourself by  installing a tool like the [OpenLink Structured Data Sniffer](http://osds.openlinksw.com/). Alternatively, some search engines have tooling like the [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool) to provide insight into how they perceive a given website.
-
-Finally, ask a couple of colleagues which registries they would use if they were looking for software like yours.
-
-You can view a list of research software registries [here](https://github.com/NLeSC/awesome-research-software-registries).
-
-> ## Exercise
+> Let's think about:
 >
-> Have a look at [the list of software registries](https://github.com/NLeSC/awesome-research-software-registries) and pick a registry for your software.
-> - Which registry did you choose?
-> - Why did you choose that one?
+> - How much traffic does the community registry get?
+> - Is the community registry targeting the audience we are trying to reach?
+> - What metadata does the community registry offer?
+{: .discussion}
+
+> Metadata is sometimes described in the documentation of the registry.
+> It is also possible to get them by installing a tool like the
+> [OpenLink Structured Data Sniffer](http://osds.openlinksw.com/).
+> Alternatively, some search engines have a tool like the
+> [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool)
+> to provide insight into how they perceive a given website.
+{: .callout}
+
+Choosing a software registry that is best suited for your needs can be tricky.
+Here some tips:
+
+- Ask your colleagues which registries they would use if they were looking for software like yours.
+- See a list of research software registries [here](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-).
+
+> ## Choose a software registry
+>
+> Have a look at [the list of software registries](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-) and pick a registry for your software.
+> - Which registry do you choose?
+> - Why do you choose that one?
 > - What kind of software is in this registry?
 > - Try to find documentation on how to register software in there.
 >
-{: .challenge}
+
 
 {% include links.md %}
