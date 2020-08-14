@@ -14,7 +14,7 @@ keypoints:
 >
 > Register your code in a community registry
 {: .callout}
-![principle3]({{ page.root }}/fig/principle3.png)
+![recommendation3]({{ page.root }}/fig/recommendation3.png)
 
 ## Why registering your Software is important
 
