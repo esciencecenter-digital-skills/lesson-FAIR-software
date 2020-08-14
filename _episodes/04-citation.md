@@ -59,7 +59,7 @@ citation metadata, which you then distribute with your software.
 
 ## A persistent identifier
 
-Software is continuously improving, and ideally when someone uses your software,
+Software is continuously evolving, and ideally when someone uses your software,
 they cite the exact version of the software they use. To facilitate that,
 you can make a **persistent identifier** (DOI, URN, ARK, etc) for a snapshot of
 your software, so that the identifier will continue to resolve to exactly
