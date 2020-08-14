@@ -43,7 +43,7 @@ Below are we provide a few tips.
   - Is this community registry targeting the audience we are trying to reach?
   - What metadata does this community registry offer?
 - Ask your colleagues which registries they would use to look for software like yours.
-- See a list of research software registries [here](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-).
+- Have look at the list of research software registries [here](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-).
 
 > ## Find metadata
 >
