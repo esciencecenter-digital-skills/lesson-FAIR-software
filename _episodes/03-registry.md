@@ -45,7 +45,12 @@ Below are we provide a few tips.
 - Ask your colleagues which registries they would use to look for software like yours.
 - Have look at the list of research software registries [here](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-).
 
-> ## Find metadata
+> ## What is metadata and how to find it
+>
+> 'Metadata is data about data. In other words, it's information that's
+> used to describe the data that's contained in something like a web page,
+> document, or file.'
+> [https://www.lifewire.com/metadata-definition-and-examples-1019177](https://www.lifewire.com/metadata-definition-and-examples-1019177)
 >
 > Metadata is sometimes described in the documentation of the registry.
 > It is also possible to get them by installing a tool like the
