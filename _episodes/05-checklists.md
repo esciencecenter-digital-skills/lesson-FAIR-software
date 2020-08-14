@@ -22,7 +22,7 @@ keypoints:
 
 ## Why software checklists are important
 
-Checklists help you write good quality software. What exactly **constitutes
+Checklists help you write good quality software. What exactly
 good quality** means depends on the specific application of the software,
 but typically covers things like documenting the source code,
 using continuous testing, and following standardized code patterns.
