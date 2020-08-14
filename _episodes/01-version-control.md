@@ -16,7 +16,7 @@ keypoints:
 - "Using a public repository contributes to the reproducibility, reusability and quality of your code."
 ---
 
-> ## [Principle 1](https://fair-software.eu/recommendations/repository)
+> ## [Recommendation 1](https://fair-software.eu/recommendations/repository)
 >
 > Use a publicly accessible repository with version control.
 {: .callout}
