@@ -53,7 +53,7 @@ There are several websites that can help you choose a license:
 > ## Choosing a license for a project at the university
 >
 > Suppose you write code for a project at the university.
-> Open sourcing software is not yet best practice in your community,
+> Open sourcing software may not yet be a common practice in your community,
 > and there is no clear standard software license to use.
 > What license would you choose and why?
 >
