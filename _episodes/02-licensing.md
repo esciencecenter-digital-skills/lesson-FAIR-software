@@ -10,7 +10,7 @@ objectives:
 - "Learn about software licenses"
 - "Add a license to a GitHub repository"
 keypoints:
-- "It is important to add a license to your open-source code."
+- "It is important to add an open-source license to make your code open."
 - "There are several common licenses that have different permissiveness."
 ---
 
