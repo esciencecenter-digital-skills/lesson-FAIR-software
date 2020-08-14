@@ -67,7 +67,7 @@ you can make a **persistent identifier**
 [Archival Resource Key or ARK](https://en.wikipedia.org/wiki/Archival_Resource_Key),
 etc) for a snapshot of
 your software, so that the identifier will continue to resolve to exactly
-that version for the foreseeable future.
+that version in the future.
 
 > ## Archiving services
 >
