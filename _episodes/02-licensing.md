@@ -68,7 +68,7 @@ There are several websites that can help you choose a license:
 
 The 3 main rules of choosing a license:
 
-- Be the owner of the code or have the owners' approval. Otherwise you cannot do it.
+- You have to be the owner of the code or have the owners' approval. Otherwise, you cannot do it.
 - Choose a common license. People know those and understand what they mean. Nobody will spend hours and lawyers on your license to figure out what it means.
 - Do not ever modify a license text. A modified license is a new license so more lawyers, time and money. 
 
