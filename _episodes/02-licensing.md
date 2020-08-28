@@ -59,6 +59,8 @@ There are several websites that can help you choose a license:
 >
 {: .discussion}
 
+FIXME: To avoid learners endlessly searching for how to add a license to their
+repository, we can also just point them to the github help pages in the instruction.
 > ## Add a license to your GitHub repository
 >
 > Go to your new repository on GitHub and add a license.
