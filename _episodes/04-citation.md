@@ -6,6 +6,7 @@ questions:
 - "Why explicitly enable software citation?"
 - "How to make a software citable?"
 objectives:
+- "Understand why you should enable software citation"
 - "Create a citation.cff file"
 - "Publish software on Zenodo"
 keypoints:
@@ -44,6 +45,7 @@ citation metadata, which you then distribute with your software.
 > to initialize the ``CITATION.cff``.
 {: .callout}
 
+FIXME: Would be nice to point the learner to the instructions in the excersice instruction.
 > ## Publish your code in zenodo
 >
 > Browse to [Zenodo](https://sandbox.zenodo.org/) and archive a snapshot of

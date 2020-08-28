@@ -8,12 +8,13 @@ questions:
 - "What is a Software Management plan?"
 - "What is a Software Sustainability plan?"
 objectives:
-- "Understand a software checklist"
+- "Understand what a software checklist is"
+- "Understand why it is good to adhere to a software checklist"
 - "Choose a relevant software checklist"
 keypoints:
 - "Checklists help you write good quality software."
 ---
-
+FIXME: "software management plan & software sustainability plan are not discussed"
 > ## [Recommendation 5](https://fair-software.eu/recommendations/checklist)
 >
 > Use a software quality checklist
@@ -59,6 +60,11 @@ Here is a list of some candidate checklists:
 > - What are the differences?
 > - What do you think about the questions on the checklist?
 > - Which checklist seems most relevant for your code?
+>
+{: .discussion}
+
+> ## The limits of a checklist
+> Are all software that ticked all the boxes of a software checklist high quality software?
 >
 {: .discussion}
 
