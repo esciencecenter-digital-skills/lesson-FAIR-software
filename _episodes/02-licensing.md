@@ -37,7 +37,7 @@ Be aware that you, as the developer of a given piece of software,
 may not be the copyright holder of the code you write. Often, the copyright
 holder of the work is the employer (or hiring party) and not the author of the work.
 If you are not the copyright holder you cannot simply license the code. 
-So inform yourself of your institute's policy before putting code into the open.
+Inform yourself of your institute's policy before putting code into the open.
 
 > ## Stack overflow
 >
