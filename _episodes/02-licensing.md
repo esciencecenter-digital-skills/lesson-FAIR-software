@@ -41,7 +41,7 @@ Inform yourself of your institute's policy before putting code into the open.
 
 > ## Stack overflow
 >
-> Suppose you wrote a small code and want to give it to the rest of your research group. 
+> Suppose you wrote a small code snippet and want to share it with the rest of your research group. 
 > While writing the code you copied a couple of snippets from Stack Overflow. 
 > What do you have to not get into trouble over copyright infringement?
 > > ## Solution
