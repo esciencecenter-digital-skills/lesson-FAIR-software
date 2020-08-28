@@ -19,6 +19,7 @@ keypoints:
 {: .callout}
 ![recommendation3]({{ page.root }}/fig/recommendation3.png)
 
+FIXME: Add example of metadata for an example software project
 ## Why registering your Software is important
 
 Registering your software makes it easier for others to find it,
