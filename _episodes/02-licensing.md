@@ -75,10 +75,10 @@ The 3 main rules of choosing a license:
 ## Permissive and copylfet licenses
 
 
-## License compatability
+## License compatibility
 
 Today most codes depend on libraries, which also have their own licenses. So how do these licenses influence or limit your choice of license.
-This is the realm of license compatability and it is complictated, because it depends on 
+This is the realm of license compatibility and it is complictated, because it depends on 
 - how you package your software
 - how integrated the library is in your code
 - what the specific license of that library requires
