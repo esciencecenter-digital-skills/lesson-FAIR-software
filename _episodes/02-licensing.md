@@ -6,7 +6,7 @@ questions:
 - "Why is a license important?"
 - "When is a license important?"
 - "How to choose a license?"
-- "How does my license interact with a library and its license"
+- "How does my license interact with an external library/package and its license"
 objectives:
 - "Learn about software licenses"
 - "Add a license to a GitHub repository"
@@ -72,7 +72,7 @@ The 3 main rules of choosing a license:
 - Choose a common license. People know those and understand what they mean. Nobody will spend hours and lawyers on your license to figure out what it means.
 - Do not ever modify a license text. A modified license is a new license so more lawyers, time and money. 
 
-## Permissive and copylfet licenses
+## Permissive and copyleft licenses
 
 
 ## License compatibility
