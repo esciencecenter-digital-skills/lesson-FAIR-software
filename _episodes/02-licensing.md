@@ -85,21 +85,21 @@ This is the realm of license compatibility and it is complictated, because it de
 - what the dependencies of that library require
 
 Among permissive licenses you will generally not have many problems, but copyleft licenses make things more difficult
-A nice overview is found [here](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-software.html).
+A nice overview is found [in the Turing Way Boook](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-software.html).
 
 [FOSSA](https://fossa.com/?ref=tldrlegal) is a tool which for some programming languages helps you to scan and ascertain that all requirements are met.
 
-Also think about data you might ship in your in project, because data has copyrights too. So check your data.
+Also, think about the data you might ship together with your project because data has copyright too. So check your data.
 
-## Relicensing your code
+## Re-licensing your code
 
-So you picked the wrong license 5 years ago and now want to change that. If you are the only and single copyright holder of the code, you can just change the license for the next version. Old releases of your code will still be available under the old license. If you are not the sole copyright holder you have to get the approval of all copyright holders, who made a significant contribution to the code.
+What if you picked the wrong license 5 years ago and now want to change that? If you are the only and single copyright holder of the code, you can change the license for the next version. Old releases of your code will still be available under the old license. If you are not the sole copyright holder you have to get the approval of all copyright holders, who made a significant contribution to the code.
 
 > ## Choosing a license for a project at the university
 >
 > Suppose you write code for a project at the university.
 > Open sourcing software may not yet be a common practice in your community,
-> and there is no clear standard software license to use. What are your steps to take?
+> and there is no clear standard software license to use. What steps will you take?
 >
 {: .discussion}
 
