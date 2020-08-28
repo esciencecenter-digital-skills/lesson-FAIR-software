@@ -77,7 +77,7 @@ The 3 main rules of choosing a license:
 
 ## License compatibility
 
-Today most codes depend on libraries, which also have their own licenses. So how do these licenses influence or limit your choice of license.
+Today most software depends on external libraries, modules or packages, which have their own licenses. How do these licenses influence or limit your choice of the license?
 This is the realm of license compatibility and it is complictated, because it depends on 
 - how you package your software
 - how integrated the library is in your code
