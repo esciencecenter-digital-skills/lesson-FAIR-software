@@ -79,7 +79,7 @@ The major difference is copyleft licenses require you to open-source your derive
 
 Permissive licenses do not require that. People can more or less do whatever they want with the code, as long they attribute it to you and leave the license in that code and do not complain when it breaks something.
 
-Copyleft licenses require people to release their code changes to the world and permissive licenses do not. Copyleft licenses prevent people form just taking the code modifying it and then making a profit. That also includes yourself, if you are not the sole copyright holder. 
+Copyleft licenses require people to release their source code under the same conditions to the world if they want to share it at all. Permissive licenses do not. Copyleft licenses prevent people form just taking the code modifying it and then making a profit. That also includes yourself, if you are not the sole copyright holder. 
 
 Companies do like permissve licenses more, so if you want commerical contributions to your code a permissve license might be advantageous. On the other hand the linux kernel uses a copyleft license and has many commercial contributors. 
 
