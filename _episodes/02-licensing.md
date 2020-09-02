@@ -77,7 +77,7 @@ The 3 main rules of choosing a license:
 Open-source licenses can be broadly separated into two categories: permissive and copyleft.
 The major difference is that copyleft licenses require that if you share your derived work, then you have to do so under the same license. What counts as a derived work is not defined in copyright law, but some licenses give explicit rules. Certainly if you take a copyleft code and modify it and you want to distribute it in any way you have to open-source it under the same license.
 
-Permissive licenses do not require that. People can more or less do whatever they want with the code, as long they attribute it to you and leave the license in that code, and do not complain when it breaks something.
+Permissive licenses do not require that. People can more or less do whatever they want with the code, as long they attribute it to you, do not remove any license statements that come with the code, and do not complain when it breaks something.
 
 Copyleft licenses require people to use the same license if they share their derived source code with anyone else. Permissive licenses do not. Copyleft licenses prevent people form just taking the code modifying it and then making a profit. That also includes yourself, if you are not the sole copyright holder.
 
