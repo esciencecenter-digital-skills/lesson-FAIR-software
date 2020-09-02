@@ -56,7 +56,7 @@ Inform yourself of your institute's policy before putting code into the open.
 
 We ask you to use one of the common licenses. Because these
 were written by lawyers, the license text is precise in expressing
-its terms. While that carries the unfortunate side effect of being lengthy and difficult
+its terms. While that means they may take some more time and effort
 to understand, the widespread use of the popular licenses means that
 there is a larger number of people who understand how the letter of
 the law should be interpreted.
