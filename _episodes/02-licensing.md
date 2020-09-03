@@ -113,15 +113,4 @@ What if you picked the wrong license 5 years ago and now want to change that? If
 >
 {: .discussion}
 
-> ## Add a license to your GitHub repository
->
-> Go to your new repository on GitHub and add a license.
->
-> > ## Solution
-> >
-> > Follow the instructions
-> > on the [GitHub help pages](https://docs.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository).
-> {: .solution}
-{: .challenge}
-
 {% include links.md %}
