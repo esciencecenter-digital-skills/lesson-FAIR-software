@@ -110,7 +110,17 @@ What if you picked the wrong license 5 years ago and now want to change that? If
 > Suppose you write code for a project at the university.
 > Open sourcing software may not yet be a common practice in your community,
 > and there is no clear standard software license to use. What steps will you take?
->
+> > ## Solution
+> >
+> > Check who actually owns the code and data
+> > Check with your employer, what policy they have to open sourcing code and also your funding agency
+> > See which license is most common in your field
+> > Check briefly your dependencies
+> > Think about copyleft vs permissive
+> > Agree with copyright holders on a license
+> > Add license file to repository
+> {: .solution}
+>> 
 {: .discussion}
 
 {% include links.md %}
