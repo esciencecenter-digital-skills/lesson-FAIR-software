@@ -99,7 +99,7 @@ A nice overview is found [in the Turing Way Book](https://the-turing-way.netlify
 
 [FOSSA](https://fossa.com/?ref=tldrlegal) is a tool which for some programming languages helps you to scan and ascertain that all requirements are met.
 
-Also, think about the data you might ship together with your project because data has copyright too. So check your data.
+Often code is shipped together with data, e.g. material constants, examples etc.. . Make sure that you own this data or it has a license which is compatible with your code's license. 
 
 ## Re-licensing your code
 
