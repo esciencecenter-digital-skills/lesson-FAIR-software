@@ -14,7 +14,6 @@ objectives:
 keypoints:
 - "The five recommendations make your code more Findable, Accessible, Interoperable and Reusable."
 ---
-FIXME: The question "Why FAIR software?" is not answered.
 
 ## What is FAIR?
 

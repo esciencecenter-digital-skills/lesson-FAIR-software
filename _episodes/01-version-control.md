@@ -80,9 +80,6 @@ and [GitLab.com](https://about.gitlab.com/) all have smooth integrations with ``
 
 A good starting point to learn about ``Git`` is the [Software Carpentry git novice lesson](http://swcarpentry.github.io/git-novice/).
 
-FIXME: This excersise basically requests learners to 'go figure it out'. This
-can be a conscious choice, but we could also help them out by giving them the instructions on
-how to do this and just make them follow those instructions.
 > ## Making a public repository on GitHub
 >
 > Create a public repository onder your own GitHub account,

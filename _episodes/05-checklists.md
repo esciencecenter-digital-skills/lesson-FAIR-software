@@ -14,7 +14,6 @@ objectives:
 keypoints:
 - "Checklists help you write good quality software."
 ---
-FIXME: "software management plan & software sustainability plan are not discussed"
 > ## [Recommendation 5](https://fair-software.eu/recommendations/checklist)
 >
 > Use a software quality checklist

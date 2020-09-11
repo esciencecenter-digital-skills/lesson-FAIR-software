@@ -19,7 +19,6 @@ keypoints:
 {: .callout}
 ![recommendation3]({{ page.root }}/fig/recommendation3.png)
 
-FIXME: Add example of metadata for an example software project
 ## Why registering your Software is important
 
 Registering your software makes it easier for others to find it,
@@ -49,10 +48,6 @@ Below we provide a few tips.
 - Ask your colleagues which registries they would use to look for software like yours.
 - Have a look at the list of research software registries [here](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-).
 
-FIXME: For me this part (what is metadata and how to find it) only confuses things.
-I am not sure if the learners really want to learn about osds at this point, and
-in the 'Why registering data is important' section it is already described why
-metadata is important and what it is.
 > ## What is metadata and how to find it
 >
 > 'Metadata is data about data. In other words, it's information that's
