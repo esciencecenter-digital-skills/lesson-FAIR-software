@@ -6,6 +6,7 @@ questions:
 - "Why explicitly enable software citation?"
 - "How to make a software citable?"
 objectives:
+- "Understand why you should enable software citation"
 - "Create a citation.cff file"
 - "Publish software on Zenodo"
 keypoints:

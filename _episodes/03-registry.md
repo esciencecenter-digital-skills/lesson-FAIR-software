@@ -4,8 +4,11 @@ teaching: 0
 exercises: 0
 questions:
 - "What are software registries?"
+- "Why should I register my software"
 objectives:
+- "Understand what a software registry is"
 - "Pick a relevant software registry"
+- "Understand why you should register your software"
 keypoints:
 - "Registring your code in a community registry makes your code findable for others."
 ---
@@ -26,7 +29,7 @@ what the software is about, what problems it addresses, and what domain it is su
 In turn, this helps improve the ranking of the software in the search results:
 **better metadata means better ranking**.
 
-> ## Community registries are like yellow pages for software
+> ## Community registries are like [yellow pages](https://www.yellowpages.com/) for software
 >
 > For others to make use of your work, they need to be able to find it first.
 {: .callout}
@@ -35,7 +38,7 @@ In turn, this helps improve the ranking of the software in the search results:
 
 Community registries come in many flavors.
 Choosing a software registry that is best suited for your needs can be tricky.
-Below are we provide a few tips.
+Below we provide a few tips.
 
 - Think about:
 
@@ -43,7 +46,7 @@ Below are we provide a few tips.
   - Is this community registry targeting the audience we are trying to reach?
   - What metadata does this community registry offer?
 - Ask your colleagues which registries they would use to look for software like yours.
-- Have look at the list of research software registries [here](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-).
+- Have a look at the list of research software registries [here](https://github.com/NLeSC/awesome-research-software-registries#awesome-research-software-registries-).
 
 > ## What is metadata and how to find it
 >

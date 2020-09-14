@@ -5,12 +5,16 @@ exercises: 0
 questions:
 - "What is FAIR software?"
 - "Why FAIR software?"
+- "How do I make software FAIR?"
 objectives:
+- "Know what FAIR software is"
+- "Understand the benefits of making software FAIR"
 - "Describe five recommendations for FAIR software"
 - "Know the FAIR software website"
 keypoints:
 - "The five recommendations make your code more Findable, Accessible, Interoperable and Reusable."
 ---
+
 ## What is FAIR?
 
 FAIR stands for Findable, Accessible, Interoperable and Reusable.
